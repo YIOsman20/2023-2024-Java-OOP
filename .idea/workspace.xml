@@ -39,13 +39,6 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="untitled2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="2023-2024-Java-OOP" />
       <method v="2">
@@ -55,6 +48,13 @@
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <module name="2023-2024-Java-OOP" />
       <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="untitled2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
