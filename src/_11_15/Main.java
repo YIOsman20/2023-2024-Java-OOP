@@ -1,3 +1,5 @@
+package _11_15;
+
 import People.Human;
 
 public class Main {

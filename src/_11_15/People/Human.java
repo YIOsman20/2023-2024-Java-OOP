@@ -1,4 +1,4 @@
-package People;
+package _11_15.People;
 
 public class Human {
     protected String name;

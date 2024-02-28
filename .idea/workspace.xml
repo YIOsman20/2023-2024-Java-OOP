@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d543ec0-10cd-4934-896b-b70489232096" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="5d543ec0-10cd-4934-896b-b70489232096" name="Changes" comment="Generics 1/30/2024">
+      <change afterPath="$PROJECT_DIR$/src/Lists/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/CustomList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/CustomList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_11_15/_11_15.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_11_15/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_15/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_11_15/src/People/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_15/People/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_11_15/src/People/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_15/People/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project 1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project 1/out/production/project 1/zada4a5/FactorialCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project 1/out/production/project 1/zada4a6/calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project 1/out/production/project 1/zada4a7/getVolume.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -30,14 +40,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/YIOsman20/IdeaProjects/2023-2024-Java-OOP",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\YIOsman20\IdeaProjects\2023-2024-Java-OOP\src" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="2023-2024-Java-OOP" />
@@ -75,7 +92,20 @@
       <updated>1699427636101</updated>
       <workItem from="1699427637450" duration="2651000" />
       <workItem from="1700031116679" duration="158000" />
+      <workItem from="1706604210863" duration="177000" />
+      <workItem from="1706683338830" duration="12000" />
+      <workItem from="1707292547254" duration="614000" />
+      <workItem from="1707388435842" duration="18000" />
+      <workItem from="1709105952923" duration="3825000" />
     </task>
+    <task id="LOCAL-00001" summary="Generics 1/30/2024">
+      <created>1706604376101</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706604376101</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,5 +121,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Generics 1/30/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generics 1/30/2024" />
   </component>
 </project>

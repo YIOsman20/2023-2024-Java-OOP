@@ -1,4 +1,4 @@
-package People;
+package _11_15.People;
 
 public class Student extends  Human{
     public Student(String name, int age) {
