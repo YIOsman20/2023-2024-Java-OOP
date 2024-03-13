@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d543ec0-10cd-4934-896b-b70489232096" name="Changes" comment="Generics 1/30/2024">
-      <change afterPath="$PROJECT_DIR$/src/Lists/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Comperators/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Comperators/DogComparatorByBreed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Comperators/DogComparatorByNameAndAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Comperators/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashset/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/CustomList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/CustomList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_11_15/_11_15.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_11_15/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_15/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_11_15/src/People/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_15/People/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_11_15/src/People/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_15/People/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project 1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project 1/out/production/project 1/zada4a5/FactorialCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project 1/out/production/project 1/zada4a6/calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project 1/out/production/project 1/zada4a7/getVolume.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_11_15/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,22 +35,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/YIOsman20/IdeaProjects/2023-2024-Java-OOP",
-    "settings.editor.selected.configurable": "configurable.group.appearance"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/YIOsman20/IdeaProjects/2023-2024-Java-OOP&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\YIOsman20\IdeaProjects\2023-2024-Java-OOP\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Hashset.Main">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="2023-2024-Java-OOP" />
       <method v="2">
@@ -69,6 +64,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Hashset.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hashset.Main" />
+      <module name="untitled2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hashset.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lists.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lists.Main" />
+      <module name="untitled2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="untitled2" />
@@ -78,6 +99,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hashset.Main" />
+        <item itemvalue="Application.Lists.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -97,6 +120,7 @@
       <workItem from="1707292547254" duration="614000" />
       <workItem from="1707388435842" duration="18000" />
       <workItem from="1709105952923" duration="3825000" />
+      <workItem from="1710316061892" duration="3222000" />
     </task>
     <task id="LOCAL-00001" summary="Generics 1/30/2024">
       <created>1706604376101</created>
