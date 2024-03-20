@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d543ec0-10cd-4934-896b-b70489232096" name="Changes" comment="Generics 1/30/2024">
-      <change afterPath="$PROJECT_DIR$/src/Comperators/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Comperators/DogComparatorByBreed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Comperators/DogComparatorByNameAndAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Comperators/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hashset/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Noname/CustomList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Noname/GenericInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Noname/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11_15/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Comperators/DogComparatorByBreed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comperators/DogComparatorByBreed.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -46,8 +44,14 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Noname" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\YIOsman20\IdeaProjects\2023-2024-Java-OOP\src" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Noname" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Hashset.Main">
@@ -121,6 +125,7 @@
       <workItem from="1707388435842" duration="18000" />
       <workItem from="1709105952923" duration="3825000" />
       <workItem from="1710316061892" duration="3222000" />
+      <workItem from="1710920454340" duration="2772000" />
     </task>
     <task id="LOCAL-00001" summary="Generics 1/30/2024">
       <created>1706604376101</created>
