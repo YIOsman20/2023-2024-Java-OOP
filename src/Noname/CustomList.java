@@ -1,4 +1,4 @@
-package Noname;
+/*package Noname;
 
 
 
@@ -51,4 +51,4 @@ public class CustomList<T> implements GenericInterface<T>, Iterable<T> {
         }
 
     }
-}
+}*/

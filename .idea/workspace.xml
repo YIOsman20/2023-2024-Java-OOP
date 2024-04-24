@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d543ec0-10cd-4934-896b-b70489232096" name="Changes" comment="Generics 1/30/2024">
-      <change afterPath="$PROJECT_DIR$/src/Noname/CustomList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Noname/GenericInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Noname/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Filestreams/Zad1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Filestreams/Zad2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Filestreams/Zad3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Filestreams/Zad4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Comperators/DogComparatorByBreed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comperators/DogComparatorByBreed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Noname/CustomList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Noname/CustomList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Noname/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Noname/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -54,20 +57,7 @@
       <recent name="Noname" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Hashset.Main">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="2023-2024-Java-OOP" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="2023-2024-Java-OOP" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Zad4">
     <configuration name="Hashset.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hashset.Main" />
       <module name="untitled2" />
@@ -81,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lists.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lists.Main" />
+    <configuration name="Zad1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Filestreams.Zad1" />
       <module name="untitled2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lists.*" />
+          <option name="PATTERN" value="Filestreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,18 +84,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Zad2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Filestreams.Zad2" />
       <module name="untitled2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Filestreams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Filestreams.Zad3" />
+      <module name="untitled2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Filestreams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Filestreams.Zad4" />
+      <module name="untitled2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Filestreams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="2023-2024-Java-OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="2023-2024-Java-OOP" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zad4" />
+        <item itemvalue="Application.Zad3" />
+        <item itemvalue="Application.Zad2" />
+        <item itemvalue="Application.Zad1" />
         <item itemvalue="Application.Hashset.Main" />
-        <item itemvalue="Application.Lists.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -126,6 +163,7 @@
       <workItem from="1709105952923" duration="3825000" />
       <workItem from="1710316061892" duration="3222000" />
       <workItem from="1710920454340" duration="2772000" />
+      <workItem from="1713940304158" duration="3920000" />
     </task>
     <task id="LOCAL-00001" summary="Generics 1/30/2024">
       <created>1706604376101</created>
